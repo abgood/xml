@@ -1,1 +1,2 @@
 libxml2解析腾迅RTX用户配置信息
+-lxml2 -liconv -lz -lwsock32
